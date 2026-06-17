@@ -18,15 +18,15 @@ This project is useful for travelers, students, and people communicating with sp
 
 🎯 Objectives
 
-Convert speech into text in real time.
+1. Convert speech into text in real time.
 
-Translate text from one language to another.
+2. Translate text from one language to another.
 
-Generate audio output of translated text.
+3. Generate audio output of translated text.
 
-Provide an easy and user-friendly interface.
+4. Provide an easy and user-friendly interface.
 
-Enable communication between people speaking different languages.
+5. Enable communication between people speaking different languages.
 
 
 
@@ -48,25 +48,28 @@ Enable communication between people speaking different languages.
 
 
 
+
 🛠 Technologies Used
 
-Programming Language
+1. Programming Language
 
-Python
+2. Python
 
-Libraries Used
+3. Libraries Used
 
-SpeechRecognition
+4. SpeechRecognition
 
-Googletrans
+5. Googletrans
 
-gTTS (Google Text-to-Speech)
+6. gTTS (Google Text-to-Speech)
 
-PyAudio
+7. PyAudio
 
-Tkinter (GUI)
+8. Tkinter (GUI)
 
-Requests
+9. Requests
+
+    
 
 
 ⚙ Working of the System
@@ -95,53 +98,36 @@ The translated voice is played back to the user.
 
 🚀 Applications
 
-Travel Assistance
-
-Language Learning
-
-International Communication
-
-Customer Support Systems
-
-Educational Purposes
-
-Accessibility for Users
-
-Business Communication
+1. Travel Assistance
+2. Language Learning
+3. International Communication
+4. Customer Support Systems
+5. Educational Purposes
+6. Accessibility for Users
+7. Business Communication
 
 
 
 🔮 Future Enhancements
 
-Support for more languages.
-
-Offline translation capability.
-
-Mobile application version.
-
-Voice-to-voice conversation mode.
-
-Improved translation accuracy.
-
-Chat history storage.
-
-Integration with AI assistants.
+1. Support for more languages.
+2. Offline translation capability.
+3. Mobile application version.
+4. Voice-to-voice conversation mode.
+5. Improved translation accuracy.
+6. Chat history storage.
+7. Integration with AI assistants.
 
 
 
 Advantages
 
-Easy to use.
-
-Fast translation process.
-
-Supports multiple languages.
-
-Reduces language barriers.
-
-Real-time speech output.
-
-Free and open-source.
+1. Easy to use.
+2. Fast translation process.
+3. Supports multiple languages.
+4. Reduces language barriers.
+5. Real-time speech output.
+6. Free and open-source.
 
 
 
